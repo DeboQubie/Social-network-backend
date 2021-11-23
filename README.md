@@ -8,3 +8,4 @@ libraries used:
 2)postgres database
 3)Json Web Tokens
 3)Apollo server
+4)Typescript
